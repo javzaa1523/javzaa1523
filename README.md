@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Javzaa
-- 👀 I’m interested in data science & AI
+- 👀 I’m interested in data science & AI & mobile app
 - 🌱 I’m currently learning as a fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
